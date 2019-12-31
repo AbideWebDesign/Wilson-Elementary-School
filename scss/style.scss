@@ -1,0 +1,24 @@
+/*!
+Theme Name: Wilson Elementary School
+Template: csdschools
+Theme URI: https://abidewebdesign.com
+Author: Abide Web Design
+Author URI: https://abidewebdesign.com
+Description: The official theme for Wilson Elementary School
+Version: 1.0
+*/
+
+// Theme colors
+$header-top-global-bg:		#132c4e !default;
+$header-top-global-color:	#ffffff !default;
+$header-global-bg:			#ffffff !default;
+$header-global-color:		#ab2a2c !default;
+$brand-primary:         	#132c4e !default; 
+$brand-secondary:			#ab2a2c !default;
+$brand-success:         	#5cb85c !default;
+$brand-info:            	#5bc0de !default;
+$brand-warning:         	#f0ad4e !default;
+$brand-danger:          	#d9534f !default;
+$header-color:				#ffffff !default;
+
+@import "school-colors";  

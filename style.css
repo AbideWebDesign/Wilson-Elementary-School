@@ -1,0 +1,140 @@
+/*!
+Theme Name: Wilson Elementary School
+Template: csdschools
+Theme URI: https://abidewebdesign.com
+Author: Abide Web Design
+Author URI: https://abidewebdesign.com
+Description: The official theme for Wilson Elementary School
+Version: 1.0
+*/
+a {
+  color: #132c4e; }
+
+a:hover, a:focus {
+  color: #0d1e35; }
+
+h1 a, h2 a, h3 a, h4 a, h5 a {
+  color: #132c4e; }
+
+.news-item a:hover {
+  color: #0d1e35;
+  text-decoration: none; }
+
+h2 {
+  color: #ab2a2c; }
+
+.subhead h3, .subhead h5 {
+  color: #132c4e; }
+
+.text-primary {
+  color: #132c4e !important; }
+
+.text-secondary {
+  color: #ab2a2c !important; }
+
+.bg-primary {
+  background-color: #132c4e !important; }
+
+.bg-secondary {
+  background-color: #ab2a2c !important; }
+
+.btn-primary, .gform_button, #loginform #wp-submit, .acf-form .acf-button {
+  background-color: #132c4e; }
+
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus, .gform_button:hover, .gform_button:active, .gform_button:focus, .acf-form .acf-button:hover, .acf-form .acf-button:active, .acf-form .acf-button:focus, #loginform #wp-submit:hover, .open > .btn-primary.dropdown-toggle:hover, .open > .btn-primary.dropdown-toggle:focus, .open > .btn-primary.dropdown-toggle, .btn-primary:active:hover, .btn-primary:active:focus {
+  background-color: #0d1e35 !important; }
+
+.btn-secondary, #language-toggle #language-toggle-container .btn-primary {
+  background-color: #ab2a2c;
+  color: #ffffff; }
+
+.btn-secondary:hover, #language-toggle #language-toggle-container .btn-primary:hover, .btn-secondary:active, #language-toggle #language-toggle-container .btn-primary:active, .btn-secondary:focus, #language-toggle #language-toggle-container .btn-primary:focus {
+  background-color: #922426 !important;
+  color: #ffffff; }
+
+.show > .btn-primary.dropdown-toggle {
+  background-color: #132c4e; }
+
+.show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: none; }
+
+#header-top-global {
+  background: #132c4e;
+  color: #ffffff; }
+
+#header-top-global li:hover, #header-top-global .fa:hover {
+  background-color: #0e2039; }
+
+#header-global {
+  background-color: #ffffff;
+  color: #ab2a2c; }
+
+#header-top-global a {
+  color: #ffffff; }
+
+#header-global .ubermenu-transition-fade .ubermenu-item .ubermenu-submenu-drop {
+  background-color: #132c4e; }
+
+#header-global .ubermenu-skin-vanilla .ubermenu-item-level-0 > .ubermenu-target:hover, #header-global .ubermenu-skin-vanilla .ubermenu-active > .ubermenu-target {
+  background-color: #132c4e; }
+
+#nav-top-links {
+  background-color: #132c4e; }
+
+#header-top-global .ubermenu-toplinks .ubermenu-submenu.ubermenu-submenu-drop.ubermenu-toplinks .ubermenu-submenu.ubermenu-submenu-drop, #header-top-global .ubermenu-toplinks .ubermenu-submenu.ubermenu-submenu-drop {
+  background-color: #132c4e; }
+
+#header-top-global .dropdown-menu, #header-top-global .dropdown-menu > li > a:focus {
+  background-color: #132c4e; }
+
+#header-top-global .dropdown-toggle {
+  background-color: #ab2a2c; }
+
+#header-top-global .dropdown-menu > li > a:hover, #header-top-global .dropdown-menu li:hover {
+  background-color: transparent; }
+
+#header-top-global .dropdown-menu a {
+  color: white; }
+
+#language-toggle {
+  background-color: #ab2a2c !important; }
+  #language-toggle #language-toggle-container {
+    padding: .12em; }
+    #language-toggle #language-toggle-container .btn-light.disabled {
+      color: #ab2a2c; }
+
+.carousel-wrap .carousel-item .carousel-caption .carousel-title {
+  background-color: #ab2a2c; }
+  .carousel-wrap .carousel-item .carousel-caption .carousel-title h3 {
+    color: white; }
+
+#quick-links .quick-link a h4 {
+  color: white; }
+
+#sidebar-first h2, #sidebar-first h4 {
+  background: #ab2a2c; }
+
+#sidebar-first h2 a {
+  color: white; }
+
+.sidebar-callouts .sidebar-callout-inner a h4 {
+  color: #132c4e; }
+
+.sidebar-callouts .sidebar-callout-inner h4 {
+  color: #132c4e; }
+
+.post-type-archive-news .bg-primary, .page-template-page-calendar .bg-primary {
+  background-color: #ab2a2c !important; }
+  .post-type-archive-news .bg-primary .text-white, .page-template-page-calendar .bg-primary .text-white {
+    color: white !important; }
+
+#footer-top a {
+  color: #132c4e; }
+
+@media (max-width: 767px) {
+  #header-mobile {
+    background-color: #132c4e; }
+  #header-mobile .ubermenu .ubermenu-retractor {
+    background-color: #132c4e; }
+  #header-mobile .ubermenu .ubermenu-item {
+    border-bottom: 1px solid #132c4e; } }
